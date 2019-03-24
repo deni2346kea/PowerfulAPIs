@@ -13,3 +13,5 @@
 * Terminal (any will do, preferably bash-based)
 * Text editor (any will do)
 * MongoDB
+
+Denis Kutnar
