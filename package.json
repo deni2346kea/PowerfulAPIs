@@ -1,0 +1,27 @@
+{
+  "name": "powerfulapis",
+  "version": "1.0.0",
+  "description": "modern api creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deni2346kea/PowerfulAPIs.git"
+  },
+  "author": "Denis Kutnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deni2346kea/PowerfulAPIs/issues"
+  },
+  "homepage": "https://github.com/deni2346kea/PowerfulAPIs#readme",
+  "dependencies": {
+    "apollo-server-hapi": "^2.4.8",
+    "graphql": "^14.2.0",
+    "hapi": "^18.1.0",
+    "mongoose": "^5.4.20",
+    "nodemon": "^1.18.10"
+  }
+}
